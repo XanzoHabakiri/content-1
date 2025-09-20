@@ -129,7 +129,8 @@ color: #FFFFFF;
     align-items: center;
     /* flex-direction: column; */
     flex-wrap: wrap;
-    background: #B12B06;
+    /* background: #B12B06; */
+    background: blue;
     /* border: 1px solid red; */
     border-radius: 10px;
     margin: 0 50px 30px 50px;
@@ -179,5 +180,5 @@ border-radius: 10px;
     align-items: center;
     flex-wrap: wrap;
     padding: 0 15% 0 15%;
-    border: 1px solid red;
+    /* border: 1px solid blue; */
 }
